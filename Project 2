@@ -1,6 +1,6 @@
 class Rectangle:
     def CalculateArea(self):
-        print("Enter length:")
+        print("Enter rectangle:")
         self.l = float(input())
         print("Enter breadth:")
         self.b = float(input())
